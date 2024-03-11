@@ -1,0 +1,3 @@
+Here I have used the concepts of how of the game loop, adding pictures to the canvas, adding click handlers to have the helicopter hop, produce pipes at random and move them across the screen, detect when the helicopter collides with each pipe, and add a running score throughout the lesson.
+
+I have created this using HTML, CSS, and JavaScript to construct the Flying Helicopter specifically for game coding.
